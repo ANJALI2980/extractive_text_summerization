@@ -1,0 +1,9 @@
+Marine species are important for scientific researches and commercial uses.
+
+Many researchers and agencies have been deploying AI to prepare a specific database of marine species for marine management.
+
+Recently,the AI platform developed in association with Microsoft is an attempt to automate the exhaustive process of counting local fish stocks and identify the different varieties of fish in the oceans. Machine learning is often applied to areas where there is a lot of uncertainty and unknown information is to be collected and processed. Researchers have integrated cloud computing with AI to come up with solutions specific to their marine applications. They claim that their machine learning model is now capable of identifying the species with high accuracy.
+
+An AI program developed by the researchers at North Carolina State University can automatically identify species or microscopic marine organisms. This could be the first step in developing a robotic system that can provide a clearer picture of the world’s oceans, both past and present. The program is capable of identifying six species of foraminifera (or forams). These organisms have been prevalent in the Earth’s oceans for more than 100 million years. By examining shells, the scientists can determine when the shells were formed. 
+
+Scanning and identification take only seconds, and correctly identify the forams faster than human experts.
